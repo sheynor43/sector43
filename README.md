@@ -7,11 +7,11 @@
 
 ## 📌 Быстрые ссылки
 
-- 📖 [FAQ](FAQ)
-- 📜 [Правила сервера](Rules)
-- 🚀 [Как начать играть](Getting-Started)
-- 🖥️ [Информация о сервере](Server-Info)
-- 🌐 [Соцсети](Socials)
+- 📖 [FAQ](https://github.com/sheynor43/sector43/blob/pages/FAQ.md)
+- 📜 [Правила сервера](https://github.com/sheynor43/sector43/blob/pages/Rules.md)
+- 🚀 [Как начать играть](https://github.com/sheynor43/sector43/blob/pages/Getting-Started.md)
+- 🖥️ [Информация о сервере](https://github.com/sheynor43/sector43/blob/pages/Server-Info.md)
+- 🌐 [Соцсети](https://github.com/sheynor43/sector43/blob/pages/Socials.md)
 
 ---
 ## 🌍 О сервере
