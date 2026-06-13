@@ -19,6 +19,7 @@
 На данный момент на сервере поддерживается взаимодействие между игроками с помощью следующих модов:
 - Patpat
 - Plasma Voice (В будущем)
+- [Emotecraft](https://modrinth.com/plugin/emotecraft) и [Эмоции](https://github.com/sheynor43/sector43/blob/pages/emotes.zip)
 
 ---
 
