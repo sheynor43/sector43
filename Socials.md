@@ -2,8 +2,8 @@
 
 Здесь можно следить за новостями сервера:
 
-- Discord: (ссылка)
-- Telegram: (ссылка)
+- [Discord](https://discord.gg/J4kBKnRS2K)
+- [Telegram](https://t.me/mc_sector43)
 
 ---
 
