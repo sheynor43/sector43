@@ -11,6 +11,7 @@
 - 📜 [Правила сервера](https://github.com/sheynor43/sector43/blob/pages/Rules.md)
 - 🚀 [Как начать играть](https://github.com/sheynor43/sector43/blob/pages/Getting-Started.md)
 - 🖥️ [Информация о сервере](https://github.com/sheynor43/sector43/blob/pages/Server-Info.md)
+- 💰 [Донат и VIP](https://github.com/sheynor43/sector43/blob/pages/Donat.md)
 - 🌐 [Соцсети](https://github.com/sheynor43/sector43/blob/pages/Socials.md)
 
 ---
