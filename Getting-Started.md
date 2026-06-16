@@ -2,7 +2,7 @@
 
 ## 0. Подача завки
 
-Подайте заявку на [Google форму](https://docs.google.com/forms/d/e/1FAIpQLSeMDZQDI9op_dagDpAqIiWTLj9fBlW3g98Qv9EzMNX85G8Rug/viewform?usp=publish-editor). Позже с вами свяжутся и выдатут доступ к серверу.
+Подайте заявку на [Google форму](https://docs.google.com/forms/d/e/1FAIpQLSeMDZQDI9op_dagDpAqIiWTLj9fBlW3g98Qv9EzMNX85G8Rug/viewform?usp=publish-editor). Позже с вами свяжутся и выдадут доступ к серверу.
 
 ## 1. Подключение
 
