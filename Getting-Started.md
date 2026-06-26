@@ -19,7 +19,7 @@
 На данный момент на сервере поддерживается взаимодействие между игроками с помощью следующих модов:
 - [Patpat](https://modrinth.com/mod/patpat)
 - [CPM](https://modrinth.com/mod/custom-player-models) (Custom Player Models)
-- [Plasmo Voice](https://modrinth.com/mod/plasmo-voice) (В будущем)
+- [Plasmo Voice](https://modrinth.com/mod/plasmo-voice)
 - [Emotecraft](https://modrinth.com/plugin/emotecraft) и [Эмоции](https://github.com/sheynor43/sector43/blob/pages/emotes.zip)
 
 ---
